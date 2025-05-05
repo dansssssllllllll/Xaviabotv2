@@ -25,5 +25,5 @@
     "NAME": "AUTOBOT",
     "PREFIX": "",
     "timezone": "Asia/Manila",
-    "REFRESH": "40200"
+    "REFRESH": "43200000"
 }
