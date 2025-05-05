@@ -17,13 +17,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "MOD_UID"
+        "61554405703021"
     ],
     "ABSOLUTES": [
-        "AB_UID"
+        "61554405703021"
     ],
-    "NAME": "NAME_OF_BOT",
-    "PREFIX": "PREFIX_HERE",
+    "NAME": "AUTOBOT=[/]",
+    "PREFIX": "/",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
