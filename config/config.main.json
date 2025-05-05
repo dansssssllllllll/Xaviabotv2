@@ -22,8 +22,8 @@
     "ABSOLUTES": [
         "61554405703021"
     ],
-    "NAME": "AUTOBOT=[/]",
-    "PREFIX": "/",
+    "NAME": "AUTOBOT",
+    "PREFIX": "",
     "timezone": "Asia/Manila",
-    "REFRESH": "43200000"
+    "REFRESH": "40200"
 }
